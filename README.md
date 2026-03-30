@@ -7,3 +7,4 @@
 - word_frequency.py: takes a text input, breaks it into words, counts their occurrences, and presents the results in a bag of words format.
 - vending_machine.py: handles real-world functionalities like purchasing and restocking items, interactive user input with multiple command options, and error handling for out-of-stock items and invalid selections.
 - median.py: takes the input of three integers and outputs the median value.
+- restaurant_simulator.py: uses a dictionary to store menu prices for efficient lookups, takes user input to determine order quantities, and performs price calculations for an accurate total.

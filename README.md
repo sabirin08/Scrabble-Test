@@ -5,3 +5,4 @@
 - step_counter.py: converts step count into miles (1 mile = 2000 steps), implements custom exception handling for negative values, and handles invalid (non-numeric) inputs.
 - guess_number.py: creates a game where the user tries to guess the program's random number between 1 and 100 with only 10 attempts.
 - word_frequency.py: takes a text input, breaks it into words, counts their occurrences, and presents the results in a bag of words format.
+- vending_machine.py: handles real-world functionalities like purchasing and restocking items, interactive user input with multiple command options, and error handling for out-of-stock items and invalid selections.

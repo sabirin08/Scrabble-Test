@@ -49,6 +49,14 @@
 
 ---
 
+### 🧠 OOP Programs
+
+* **student_gpa_tracker.py**
+  Allows users to build a course roster by adding multiple students and identifying the student with the highest GPA.
+  Demonstrates object-oriented programming concepts including classes, objects, methods, input validation, and custom exception handling.
+
+---
+
 ## 🛠️ Skills Demonstrated
 
 * Python Programming

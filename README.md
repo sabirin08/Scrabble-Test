@@ -57,6 +57,11 @@
 
 ---
 
+### 🗂️ Database Management System
+* **database.py**
+  Menu-driven Database Management System built in Python that allows users to store, update, retrieve, and delete student and course records.
+  Demonstrates foundational concepts in data structures, dictionary-based data storage, and user input handling.
+
 ## 🛠️ Skills Demonstrated
 
 * Python Programming

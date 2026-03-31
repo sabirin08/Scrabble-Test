@@ -1,5 +1,5 @@
-# CSC 1301 & 1302 Python Projects
-**Collection of my work from CSC 1301 / CSC 1302 and LeetCode practice, focused on building a strong foundation in data structures, algorithms, and problem-solving.**
+# Python Projects
+**Focused on building a strong foundation in data structures, algorithms, and problem-solving.**
 
 
 ---

@@ -85,4 +85,3 @@
 
 These projects were built to strengthen core programming concepts and lay the groundwork for more advanced topics in data structures, algorithms, and software development.
 
----

@@ -1,4 +1,4 @@
-# Python Projects
+# CSC 1301 & 1302 Practice
 **Focused on building a strong foundation in data structures, algorithms, and problem-solving.**
 
 

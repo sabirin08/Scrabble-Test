@@ -62,6 +62,8 @@
   Menu-driven Database Management System built in Python that allows users to store, update, retrieve, and delete student and course records.
   Demonstrates foundational concepts in data structures, dictionary-based data storage, and user input handling.
 
+---
+
 ### 🚗 RideSharing App Simulation
 * **rideshareapp.py**
   Python-based object-oriented simulation of a simple ridesharing system.
